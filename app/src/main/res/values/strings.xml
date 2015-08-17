@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">myIMDb</string>
+    <string name="hello_world"></string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_list">Search Results</string>
+    <string name="title_activity_movie_details">Movie Details</string>
+    <string name="title_activity_credits">Credits</string>
+</resources>
